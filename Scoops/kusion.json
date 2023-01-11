@@ -1,0 +1,15 @@
+{
+    "version": "0.7.6",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/howieyuen/kusion/releases/v0.7.6/kusion_0.7.6_windows_amd64.zip",
+            "bin": [
+                "kusion.exe"
+            ],
+            "hash": "682f85500d60b1edc7cd13bcab552da04d7d9f1219a7a6eb66a1c05c9d66a600"
+        }
+    },
+    "homepage": "http://github.com/howieyuen/kusion",
+    "license": "Apache License 2.0",
+    "description": "Codify and deliver intentions to Kubernetes and Clouds."
+}
