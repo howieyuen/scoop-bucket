@@ -11,7 +11,7 @@
     },
     "homepage": "http://github.com/howieyuen/kusion",
     "license": "Apache License 2.0",
-    "depends": "kclvm",
+    "depends": "KusionStack/kclvm",
     "shortcuts": [
         [
             "kusion.exe",
