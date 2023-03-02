@@ -1,12 +1,12 @@
 {
-    "version": "0.7.6",
+    "version": "0.7.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/howieyuen/kusion/releases/download/v0.7.6/kusion_0.7.6_windows_amd64.zip",
+            "url": "https://github.com/howieyuen/kusion/releases/download/v0.7.5/kusion_0.7.5_windows_amd64.zip",
             "bin": [
                 "kusion.exe"
             ],
-            "hash": "2d3944dd64de9eb58ef6f38186fac8796abee7877eff82b7ebc21b8d51acc3ab"
+            "hash": "d34678704c6ad1147db032ffa86f409f252c4af60ffa013f1a50ed797cbc5ab6"
         }
     },
     "homepage": "http://github.com/howieyuen/kusion",
