@@ -11,5 +11,8 @@
     },
     "homepage": "http://github.com/howieyuen/kusion",
     "license": "Apache License 2.0",
+    "depends": [
+        "kcl-lang/kclvm",
+    ],
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
 }
