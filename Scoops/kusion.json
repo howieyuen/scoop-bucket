@@ -14,5 +14,11 @@
     "depends": [
         "kcl-lang/kclvm"
     ],
+    "shortcuts": [
+        [
+            "kusion.exe",
+            "kusion"
+        ]
+    ],
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
 }
