@@ -1,22 +1,15 @@
 {
-    "version": "0.7.5",
+    "version": "0.8.0-rc.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/howieyuen/kusion/releases/download/v0.7.5/kusion_0.7.5_windows_amd64.zip",
+            "url": "https://github.com/howieyuen/kusion/releases/download/v0.8.0-rc.0/kusion_0.8.0-rc.0_windows_amd64.zip",
             "bin": [
                 "kusion.exe"
             ],
-            "hash": "d34678704c6ad1147db032ffa86f409f252c4af60ffa013f1a50ed797cbc5ab6"
+            "hash": "5bf4d606c79a240635f1831743eead911f23b93ebad6c765e4f5dd402d5723a2"
         }
     },
     "homepage": "http://github.com/howieyuen/kusion",
     "license": "Apache License 2.0",
-    "depends": "kclvm",
-    "shortcuts": [
-        [
-            "kusion.exe",
-            "kusion"
-        ]
-    ],
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
 }
